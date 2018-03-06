@@ -1,5 +1,5 @@
 var HDWalletProvider = require("truffle-hdwallet-provider");
-var infura_apikey = "jdk52xCSA6hUrdsL349g" ; // Either use this key or get yours at https://infura.io/signup. It's free.
+var infura_apikey = "" ; // Either use this key or get yours at https://infura.io/signup. It's free.
 var mnemonic = "";
 
 module.exports = {
